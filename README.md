@@ -62,7 +62,7 @@ Untuk menyelesaikan soal ini, cukup membuat 3 program (2 child dan 1 parent), Se
 Child 1 akan membuat folder halo -> Child 2 akan membuat file halo.txt didalam folder halo -> Parent akan mencopy halo.txt kedalam current folder.
 
 ### Bentuk program akan menjadi seperti ini:
-![alt text](![Schema](https://github.com/user-attachments/assets/79abaa1c-dd11-4ca7-ac3d-41449ac025e9))
+![Schema](https://github.com/user-attachments/assets/79abaa1c-dd11-4ca7-ac3d-41449ac025e9)
 
 ```
     pid_t ch_id1, ch_id2;
